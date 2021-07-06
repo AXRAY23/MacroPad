@@ -14,400 +14,389 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L promicro:ProMicro U?
-U 1 1 60E22CEF
-P 8050 5200
-F 0 "U?" H 8050 6237 60  0000 C CNN
-F 1 "ProMicro" H 8050 6131 60  0000 C CNN
-F 2 "" H 8150 4150 60  0000 C CNN
-F 3 "" H 8150 4150 60  0000 C CNN
-	1    8050 5200
-	1    0    0    -1  
-$EndComp
-$Comp
-L CherryMX:CherryMX SW?
+L CherryMX:CherryMX SW4
 U 1 1 60E25C06
 P 3650 1100
-F 0 "SW?" H 3650 1385 50  0000 C CNN
+F 0 "SW4" H 3650 1385 50  0000 C CNN
 F 1 "CherryMX" H 3650 1294 50  0000 C CNN
-F 2 "" H 3650 1125 50  0001 C CNN
+F 2 "kbd:CherryMX_Hotswap" H 3650 1125 50  0001 C CNN
 F 3 "" H 3650 1125 50  0001 C CNN
 	1    3650 1100
 	1    0    0    -1  
 $EndComp
 $Comp
-L CherryMX:CherryMX SW?
+L CherryMX:CherryMX SW9
 U 1 1 60E28EE2
 P 4400 1100
-F 0 "SW?" H 4400 1385 50  0000 C CNN
+F 0 "SW9" H 4400 1385 50  0000 C CNN
 F 1 "CherryMX" H 4400 1294 50  0000 C CNN
-F 2 "" H 4400 1125 50  0001 C CNN
+F 2 "kbd:CherryMX_Hotswap" H 4400 1125 50  0001 C CNN
 F 3 "" H 4400 1125 50  0001 C CNN
 	1    4400 1100
 	1    0    0    -1  
 $EndComp
 $Comp
-L CherryMX:CherryMX SW?
+L CherryMX:CherryMX SW14
 U 1 1 60E297D9
 P 5100 1100
-F 0 "SW?" H 5100 1385 50  0000 C CNN
+F 0 "SW14" H 5100 1385 50  0000 C CNN
 F 1 "CherryMX" H 5100 1294 50  0000 C CNN
-F 2 "" H 5100 1125 50  0001 C CNN
+F 2 "kbd:CherryMX_Hotswap" H 5100 1125 50  0001 C CNN
 F 3 "" H 5100 1125 50  0001 C CNN
 	1    5100 1100
 	1    0    0    -1  
 $EndComp
 $Comp
-L CherryMX:CherryMX SW?
+L CherryMX:CherryMX SW5
 U 1 1 60E2A0A7
 P 3650 2000
-F 0 "SW?" H 3650 2285 50  0000 C CNN
+F 0 "SW5" H 3650 2285 50  0000 C CNN
 F 1 "CherryMX" H 3650 2194 50  0000 C CNN
-F 2 "" H 3650 2025 50  0001 C CNN
+F 2 "kbd:CherryMX_Hotswap" H 3650 2025 50  0001 C CNN
 F 3 "" H 3650 2025 50  0001 C CNN
 	1    3650 2000
 	1    0    0    -1  
 $EndComp
 $Comp
-L CherryMX:CherryMX SW?
+L CherryMX:CherryMX SW10
 U 1 1 60E2A310
 P 4400 2000
-F 0 "SW?" H 4400 2285 50  0000 C CNN
+F 0 "SW10" H 4400 2285 50  0000 C CNN
 F 1 "CherryMX" H 4400 2194 50  0000 C CNN
-F 2 "" H 4400 2025 50  0001 C CNN
+F 2 "kbd:CherryMX_Hotswap" H 4400 2025 50  0001 C CNN
 F 3 "" H 4400 2025 50  0001 C CNN
 	1    4400 2000
 	1    0    0    -1  
 $EndComp
 $Comp
-L CherryMX:CherryMX SW?
+L CherryMX:CherryMX SW15
 U 1 1 60E2A7C4
 P 5100 2000
-F 0 "SW?" H 5100 2285 50  0000 C CNN
+F 0 "SW15" H 5100 2285 50  0000 C CNN
 F 1 "CherryMX" H 5100 2194 50  0000 C CNN
-F 2 "" H 5100 2025 50  0001 C CNN
+F 2 "kbd:CherryMX_Hotswap" H 5100 2025 50  0001 C CNN
 F 3 "" H 5100 2025 50  0001 C CNN
 	1    5100 2000
 	1    0    0    -1  
 $EndComp
 $Comp
-L CherryMX:CherryMX SW?
+L CherryMX:CherryMX SW16
 U 1 1 60E2AA5C
 P 5100 2900
-F 0 "SW?" H 5100 3185 50  0000 C CNN
+F 0 "SW16" H 5100 3185 50  0000 C CNN
 F 1 "CherryMX" H 5100 3094 50  0000 C CNN
-F 2 "" H 5100 2925 50  0001 C CNN
+F 2 "kbd:CherryMX_Hotswap" H 5100 2925 50  0001 C CNN
 F 3 "" H 5100 2925 50  0001 C CNN
 	1    5100 2900
 	1    0    0    -1  
 $EndComp
 $Comp
-L CherryMX:CherryMX SW?
+L CherryMX:CherryMX SW11
 U 1 1 60E2ACDC
 P 4400 2900
-F 0 "SW?" H 4400 3185 50  0000 C CNN
+F 0 "SW11" H 4400 3185 50  0000 C CNN
 F 1 "CherryMX" H 4400 3094 50  0000 C CNN
-F 2 "" H 4400 2925 50  0001 C CNN
+F 2 "kbd:CherryMX_Hotswap" H 4400 2925 50  0001 C CNN
 F 3 "" H 4400 2925 50  0001 C CNN
 	1    4400 2900
 	1    0    0    -1  
 $EndComp
 $Comp
-L CherryMX:CherryMX SW?
+L CherryMX:CherryMX SW6
 U 1 1 60E2B053
 P 3650 2900
-F 0 "SW?" H 3650 3185 50  0000 C CNN
+F 0 "SW6" H 3650 3185 50  0000 C CNN
 F 1 "CherryMX" H 3650 3094 50  0000 C CNN
-F 2 "" H 3650 2925 50  0001 C CNN
+F 2 "kbd:CherryMX_Hotswap" H 3650 2925 50  0001 C CNN
 F 3 "" H 3650 2925 50  0001 C CNN
 	1    3650 2900
 	1    0    0    -1  
 $EndComp
 $Comp
-L CherryMX:CherryMX SW?
+L CherryMX:CherryMX SW7
 U 1 1 60E2B46C
 P 3650 3800
-F 0 "SW?" H 3650 4085 50  0000 C CNN
+F 0 "SW7" H 3650 4085 50  0000 C CNN
 F 1 "CherryMX" H 3650 3994 50  0000 C CNN
-F 2 "" H 3650 3825 50  0001 C CNN
+F 2 "kbd:CherryMX_Hotswap" H 3650 3825 50  0001 C CNN
 F 3 "" H 3650 3825 50  0001 C CNN
 	1    3650 3800
 	1    0    0    -1  
 $EndComp
 $Comp
-L CherryMX:CherryMX SW?
+L CherryMX:CherryMX SW12
 U 1 1 60E2B9AA
 P 4400 3800
-F 0 "SW?" H 4400 4085 50  0000 C CNN
+F 0 "SW12" H 4400 4085 50  0000 C CNN
 F 1 "CherryMX" H 4400 3994 50  0000 C CNN
-F 2 "" H 4400 3825 50  0001 C CNN
+F 2 "kbd:CherryMX_Hotswap" H 4400 3825 50  0001 C CNN
 F 3 "" H 4400 3825 50  0001 C CNN
 	1    4400 3800
 	1    0    0    -1  
 $EndComp
 $Comp
-L CherryMX:CherryMX SW?
+L CherryMX:CherryMX SW17
 U 1 1 60E2C2AE
 P 5100 3800
-F 0 "SW?" H 5100 4085 50  0000 C CNN
+F 0 "SW17" H 5100 4085 50  0000 C CNN
 F 1 "CherryMX" H 5100 3994 50  0000 C CNN
-F 2 "" H 5100 3825 50  0001 C CNN
+F 2 "kbd:CherryMX_Hotswap" H 5100 3825 50  0001 C CNN
 F 3 "" H 5100 3825 50  0001 C CNN
 	1    5100 3800
 	1    0    0    -1  
 $EndComp
 $Comp
-L CherryMX:CherryMX SW?
+L CherryMX:CherryMX SW8
 U 1 1 60E2C5FE
 P 3650 4800
-F 0 "SW?" H 3650 5085 50  0000 C CNN
+F 0 "SW8" H 3650 5085 50  0000 C CNN
 F 1 "CherryMX" H 3650 4994 50  0000 C CNN
-F 2 "" H 3650 4825 50  0001 C CNN
+F 2 "kbd:CherryMX_Hotswap" H 3650 4825 50  0001 C CNN
 F 3 "" H 3650 4825 50  0001 C CNN
 	1    3650 4800
 	1    0    0    -1  
 $EndComp
 $Comp
-L CherryMX:CherryMX SW?
+L CherryMX:CherryMX SW13
 U 1 1 60E2C884
 P 4400 4800
-F 0 "SW?" H 4400 5085 50  0000 C CNN
+F 0 "SW13" H 4400 5085 50  0000 C CNN
 F 1 "CherryMX" H 4400 4994 50  0000 C CNN
-F 2 "" H 4400 4825 50  0001 C CNN
+F 2 "kbd:CherryMX_Hotswap" H 4400 4825 50  0001 C CNN
 F 3 "" H 4400 4825 50  0001 C CNN
 	1    4400 4800
 	1    0    0    -1  
 $EndComp
 $Comp
-L CherryMX:CherryMX SW?
+L CherryMX:CherryMX SW18
 U 1 1 60E2CB31
 P 5100 4800
-F 0 "SW?" H 5100 5085 50  0000 C CNN
+F 0 "SW18" H 5100 5085 50  0000 C CNN
 F 1 "CherryMX" H 5100 4994 50  0000 C CNN
-F 2 "" H 5100 4825 50  0001 C CNN
+F 2 "kbd:CherryMX_Hotswap" H 5100 4825 50  0001 C CNN
 F 3 "" H 5100 4825 50  0001 C CNN
 	1    5100 4800
 	1    0    0    -1  
 $EndComp
 $Comp
-L CherryMX:CherryMX SW?
+L CherryMX:CherryMX SW2
 U 1 1 60E2D399
 P 2300 3450
-F 0 "SW?" H 2300 3735 50  0000 C CNN
+F 0 "SW2" H 2300 3735 50  0000 C CNN
 F 1 "CherryMX" H 2300 3644 50  0000 C CNN
-F 2 "" H 2300 3475 50  0001 C CNN
+F 2 "kbd:CherryMX_Hotswap" H 2300 3475 50  0001 C CNN
 F 3 "" H 2300 3475 50  0001 C CNN
 	1    2300 3450
 	1    0    0    -1  
 $EndComp
 $Comp
-L CherryMX:CherryMX SW?
+L CherryMX:CherryMX SW3
 U 1 1 60E2D67B
 P 2300 4250
-F 0 "SW?" H 2300 4535 50  0000 C CNN
+F 0 "SW3" H 2300 4535 50  0000 C CNN
 F 1 "CherryMX" H 2300 4444 50  0000 C CNN
-F 2 "" H 2300 4275 50  0001 C CNN
+F 2 "kbd:CherryMX_Hotswap" H 2300 4275 50  0001 C CNN
 F 3 "" H 2300 4275 50  0001 C CNN
 	1    2300 4250
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:Rotary_Encoder_Switch SW?
+L Device:Rotary_Encoder_Switch SW1
 U 1 1 60E2D95F
 P 1550 1950
-F 0 "SW?" H 1550 2317 50  0000 C CNN
+F 0 "SW1" H 1550 2317 50  0000 C CNN
 F 1 "Rotary_Encoder_Switch" H 1550 2226 50  0000 C CNN
-F 2 "" H 1400 2110 50  0001 C CNN
+F 2 "Keebio-Parts:RotaryEncoder_EC11" H 1400 2110 50  0001 C CNN
 F 3 "~" H 1550 2210 50  0001 C CNN
 	1    1550 1950
 	1    0    0    -1  
 $EndComp
 $Comp
-L pspice:DIODE D?
+L pspice:DIODE D2
 U 1 1 60E2FF4F
 P 2500 3650
-F 0 "D?" V 2454 3778 50  0000 L CNN
+F 0 "D2" V 2454 3778 50  0000 L CNN
 F 1 "DIODE" V 2545 3778 50  0000 L CNN
-F 2 "" H 2500 3650 50  0001 C CNN
+F 2 "kbd:D3_TH" H 2500 3650 50  0001 C CNN
 F 3 "~" H 2500 3650 50  0001 C CNN
 	1    2500 3650
-	0    1    1    0   
+	0    -1   -1   0   
 $EndComp
 $Comp
-L pspice:DIODE D?
+L pspice:DIODE D3
 U 1 1 60E431C8
 P 2500 4450
-F 0 "D?" V 2454 4578 50  0000 L CNN
+F 0 "D3" V 2454 4578 50  0000 L CNN
 F 1 "DIODE" V 2545 4578 50  0000 L CNN
-F 2 "" H 2500 4450 50  0001 C CNN
+F 2 "kbd:D3_TH" H 2500 4450 50  0001 C CNN
 F 3 "~" H 2500 4450 50  0001 C CNN
 	1    2500 4450
-	0    1    1    0   
+	0    -1   -1   0   
 $EndComp
 $Comp
-L pspice:DIODE D?
+L pspice:DIODE D8
 U 1 1 60E439CF
 P 3850 5000
-F 0 "D?" V 3804 5128 50  0000 L CNN
+F 0 "D8" V 3804 5128 50  0000 L CNN
 F 1 "DIODE" V 3895 5128 50  0000 L CNN
-F 2 "" H 3850 5000 50  0001 C CNN
+F 2 "kbd:D3_TH" H 3850 5000 50  0001 C CNN
 F 3 "~" H 3850 5000 50  0001 C CNN
 	1    3850 5000
-	0    1    1    0   
+	0    -1   -1   0   
 $EndComp
 $Comp
-L pspice:DIODE D?
+L pspice:DIODE D13
 U 1 1 60E43D41
 P 4600 5000
-F 0 "D?" V 4554 5128 50  0000 L CNN
+F 0 "D13" V 4554 5128 50  0000 L CNN
 F 1 "DIODE" V 4645 5128 50  0000 L CNN
-F 2 "" H 4600 5000 50  0001 C CNN
+F 2 "kbd:D3_TH" H 4600 5000 50  0001 C CNN
 F 3 "~" H 4600 5000 50  0001 C CNN
 	1    4600 5000
-	0    1    1    0   
+	0    -1   -1   0   
 $EndComp
 $Comp
-L pspice:DIODE D?
+L pspice:DIODE D18
 U 1 1 60E43FF0
 P 5300 5000
-F 0 "D?" V 5254 5128 50  0000 L CNN
+F 0 "D18" V 5254 5128 50  0000 L CNN
 F 1 "DIODE" V 5345 5128 50  0000 L CNN
-F 2 "" H 5300 5000 50  0001 C CNN
+F 2 "kbd:D3_TH" H 5300 5000 50  0001 C CNN
 F 3 "~" H 5300 5000 50  0001 C CNN
 	1    5300 5000
-	0    1    1    0   
+	0    -1   -1   0   
 $EndComp
 $Comp
-L pspice:DIODE D?
+L pspice:DIODE D17
 U 1 1 60E442AB
 P 5300 4000
-F 0 "D?" V 5254 4128 50  0000 L CNN
+F 0 "D17" V 5254 4128 50  0000 L CNN
 F 1 "DIODE" V 5345 4128 50  0000 L CNN
-F 2 "" H 5300 4000 50  0001 C CNN
+F 2 "kbd:D3_TH" H 5300 4000 50  0001 C CNN
 F 3 "~" H 5300 4000 50  0001 C CNN
 	1    5300 4000
-	0    1    1    0   
+	0    -1   -1   0   
 $EndComp
 $Comp
-L pspice:DIODE D?
+L pspice:DIODE D12
 U 1 1 60E445CD
 P 4600 4000
-F 0 "D?" V 4554 4128 50  0000 L CNN
+F 0 "D12" V 4554 4128 50  0000 L CNN
 F 1 "DIODE" V 4645 4128 50  0000 L CNN
-F 2 "" H 4600 4000 50  0001 C CNN
+F 2 "kbd:D3_TH" H 4600 4000 50  0001 C CNN
 F 3 "~" H 4600 4000 50  0001 C CNN
 	1    4600 4000
-	0    1    1    0   
+	0    -1   -1   0   
 $EndComp
 $Comp
-L pspice:DIODE D?
+L pspice:DIODE D7
 U 1 1 60E448AB
 P 3850 4000
-F 0 "D?" V 3804 4128 50  0000 L CNN
+F 0 "D7" V 3804 4128 50  0000 L CNN
 F 1 "DIODE" V 3895 4128 50  0000 L CNN
-F 2 "" H 3850 4000 50  0001 C CNN
+F 2 "kbd:D3_TH" H 3850 4000 50  0001 C CNN
 F 3 "~" H 3850 4000 50  0001 C CNN
 	1    3850 4000
-	0    1    1    0   
+	0    -1   -1   0   
 $EndComp
 $Comp
-L pspice:DIODE D?
+L pspice:DIODE D16
 U 1 1 60E4A5FC
 P 5300 3100
-F 0 "D?" V 5254 3228 50  0000 L CNN
+F 0 "D16" V 5254 3228 50  0000 L CNN
 F 1 "DIODE" V 5345 3228 50  0000 L CNN
-F 2 "" H 5300 3100 50  0001 C CNN
+F 2 "kbd:D3_TH" H 5300 3100 50  0001 C CNN
 F 3 "~" H 5300 3100 50  0001 C CNN
 	1    5300 3100
-	0    1    1    0   
+	0    -1   -1   0   
 $EndComp
 $Comp
-L pspice:DIODE D?
+L pspice:DIODE D11
 U 1 1 60E4A602
 P 4600 3100
-F 0 "D?" V 4554 3228 50  0000 L CNN
+F 0 "D11" V 4554 3228 50  0000 L CNN
 F 1 "DIODE" V 4645 3228 50  0000 L CNN
-F 2 "" H 4600 3100 50  0001 C CNN
+F 2 "kbd:D3_TH" H 4600 3100 50  0001 C CNN
 F 3 "~" H 4600 3100 50  0001 C CNN
 	1    4600 3100
-	0    1    1    0   
+	0    -1   -1   0   
 $EndComp
 $Comp
-L pspice:DIODE D?
+L pspice:DIODE D6
 U 1 1 60E4A608
 P 3850 3100
-F 0 "D?" V 3804 3228 50  0000 L CNN
+F 0 "D6" V 3804 3228 50  0000 L CNN
 F 1 "DIODE" V 3895 3228 50  0000 L CNN
-F 2 "" H 3850 3100 50  0001 C CNN
+F 2 "kbd:D3_TH" H 3850 3100 50  0001 C CNN
 F 3 "~" H 3850 3100 50  0001 C CNN
 	1    3850 3100
-	0    1    1    0   
+	0    -1   -1   0   
 $EndComp
 $Comp
-L pspice:DIODE D?
+L pspice:DIODE D15
 U 1 1 60E4C004
 P 5300 2200
-F 0 "D?" V 5254 2328 50  0000 L CNN
+F 0 "D15" V 5254 2328 50  0000 L CNN
 F 1 "DIODE" V 5345 2328 50  0000 L CNN
-F 2 "" H 5300 2200 50  0001 C CNN
+F 2 "kbd:D3_TH" H 5300 2200 50  0001 C CNN
 F 3 "~" H 5300 2200 50  0001 C CNN
 	1    5300 2200
-	0    1    1    0   
+	0    -1   -1   0   
 $EndComp
 $Comp
-L pspice:DIODE D?
+L pspice:DIODE D10
 U 1 1 60E4C00A
 P 4600 2200
-F 0 "D?" V 4554 2328 50  0000 L CNN
+F 0 "D10" V 4554 2328 50  0000 L CNN
 F 1 "DIODE" V 4645 2328 50  0000 L CNN
-F 2 "" H 4600 2200 50  0001 C CNN
+F 2 "kbd:D3_TH" H 4600 2200 50  0001 C CNN
 F 3 "~" H 4600 2200 50  0001 C CNN
 	1    4600 2200
-	0    1    1    0   
+	0    -1   -1   0   
 $EndComp
 $Comp
-L pspice:DIODE D?
+L pspice:DIODE D5
 U 1 1 60E4C010
 P 3850 2200
-F 0 "D?" V 3804 2328 50  0000 L CNN
+F 0 "D5" V 3804 2328 50  0000 L CNN
 F 1 "DIODE" V 3895 2328 50  0000 L CNN
-F 2 "" H 3850 2200 50  0001 C CNN
+F 2 "kbd:D3_TH" H 3850 2200 50  0001 C CNN
 F 3 "~" H 3850 2200 50  0001 C CNN
 	1    3850 2200
-	0    1    1    0   
+	0    -1   -1   0   
 $EndComp
 $Comp
-L pspice:DIODE D?
+L pspice:DIODE D14
 U 1 1 60E4D7E7
 P 5300 1300
-F 0 "D?" V 5254 1428 50  0000 L CNN
+F 0 "D14" V 5254 1428 50  0000 L CNN
 F 1 "DIODE" V 5345 1428 50  0000 L CNN
-F 2 "" H 5300 1300 50  0001 C CNN
+F 2 "kbd:D3_TH" H 5300 1300 50  0001 C CNN
 F 3 "~" H 5300 1300 50  0001 C CNN
 	1    5300 1300
-	0    1    1    0   
+	0    -1   -1   0   
 $EndComp
 $Comp
-L pspice:DIODE D?
+L pspice:DIODE D9
 U 1 1 60E4D7ED
 P 4600 1300
-F 0 "D?" V 4554 1428 50  0000 L CNN
+F 0 "D9" V 4554 1428 50  0000 L CNN
 F 1 "DIODE" V 4645 1428 50  0000 L CNN
-F 2 "" H 4600 1300 50  0001 C CNN
+F 2 "kbd:D3_TH" H 4600 1300 50  0001 C CNN
 F 3 "~" H 4600 1300 50  0001 C CNN
 	1    4600 1300
-	0    1    1    0   
+	0    -1   -1   0   
 $EndComp
 $Comp
-L pspice:DIODE D?
+L pspice:DIODE D4
 U 1 1 60E4D7F3
 P 3850 1300
-F 0 "D?" V 3804 1428 50  0000 L CNN
+F 0 "D4" V 3804 1428 50  0000 L CNN
 F 1 "DIODE" V 3895 1428 50  0000 L CNN
-F 2 "" H 3850 1300 50  0001 C CNN
+F 2 "kbd:D3_TH" H 3850 1300 50  0001 C CNN
 F 3 "~" H 3850 1300 50  0001 C CNN
 	1    3850 1300
-	0    1    1    0   
+	0    -1   -1   0   
 $EndComp
 Wire Wire Line
 	3450 4800 3450 3800
@@ -464,72 +453,23 @@ Wire Wire Line
 	2100 3450 2100 4250
 Connection ~ 2100 3450
 $Comp
-L pspice:DIODE D?
+L pspice:DIODE D1
 U 1 1 60E5B88C
 P 1850 2250
-F 0 "D?" V 1804 2378 50  0000 L CNN
+F 0 "D1" V 1804 2378 50  0000 L CNN
 F 1 "DIODE" V 1895 2378 50  0000 L CNN
-F 2 "" H 1850 2250 50  0001 C CNN
+F 2 "kbd:D3_TH" H 1850 2250 50  0001 C CNN
 F 3 "~" H 1850 2250 50  0001 C CNN
 	1    1850 2250
-	0    1    1    0   
+	0    -1   -1   0   
 $EndComp
 Wire Wire Line
 	2500 4650 2500 5200
 Wire Wire Line
-	2500 5200 3850 5200
-Wire Wire Line
-	3850 5200 4600 5200
-Connection ~ 3850 5200
-Wire Wire Line
-	4600 5200 5300 5200
-Connection ~ 4600 5200
-Wire Wire Line
-	5300 5200 5950 5200
-Connection ~ 5300 5200
-Wire Wire Line
 	2500 3850 2500 4200
 Wire Wire Line
-	2500 4200 3850 4200
-Wire Wire Line
-	3850 4200 4600 4200
-Connection ~ 3850 4200
-Wire Wire Line
-	4600 4200 5300 4200
-Connection ~ 4600 4200
-Wire Wire Line
-	5300 4200 5950 4200
-Connection ~ 5300 4200
-Wire Wire Line
 	1850 2450 1850 3300
-Wire Wire Line
-	1850 3300 3850 3300
-Wire Wire Line
-	3850 3300 4600 3300
-Connection ~ 3850 3300
-Wire Wire Line
-	4600 3300 5300 3300
-Connection ~ 4600 3300
-Wire Wire Line
-	5300 3300 5950 3300
-Connection ~ 5300 3300
-Wire Wire Line
-	3850 2400 4600 2400
-Wire Wire Line
-	4600 2400 5300 2400
-Connection ~ 4600 2400
-Wire Wire Line
-	5300 2400 5950 2400
-Connection ~ 5300 2400
-Wire Wire Line
-	3850 1500 4600 1500
-Wire Wire Line
-	4600 1500 5300 1500
-Connection ~ 4600 1500
-Wire Wire Line
-	5300 1500 5950 1500
-Connection ~ 5300 1500
-Text GLabel 7350 4650 0    50   Input ~ 0
+Text GLabel 9500 4400 2    50   Input ~ 0
 EncoderGND
 Text GLabel 1250 1950 0    50   Input ~ 0
 EncoderGND
@@ -551,34 +491,147 @@ Text GLabel 5950 4200 2    50   Input ~ 0
 Row3
 Text GLabel 5950 5200 2    50   Input ~ 0
 Row4
-Text GLabel 8750 4550 2    50   Input ~ 0
-Reset
-Text GLabel 8750 4650 2    50   Input ~ 0
-Reset
+Text GLabel 8100 4300 0    50   Input ~ 0
+ResetVIA1
+Text GLabel 8100 4400 0    50   Input ~ 0
+ResetVIA2
 Text GLabel 1250 1850 0    50   Input ~ 0
 EncoderPadA
-Text GLabel 8400 1650 0    50   Input ~ 0
+Text GLabel 9500 5100 2    50   Input ~ 0
 EncoderPadA
 Text GLabel 1250 2050 0    50   Input ~ 0
 EncoderPadB
-Text GLabel 8400 1750 0    50   Input ~ 0
+Text GLabel 9500 5200 2    50   Input ~ 0
 EncoderPadB
-Text GLabel 8100 1950 0    50   Input ~ 0
+Text GLabel 9500 4800 2    50   Input ~ 0
 Col0
-Text GLabel 8100 2050 0    50   Input ~ 0
+Text GLabel 8100 5100 0    50   Input ~ 0
 Col1
-Text GLabel 8100 2150 0    50   Input ~ 0
+Text GLabel 8100 5200 0    50   Input ~ 0
 Col2
-Text GLabel 8100 2250 0    50   Input ~ 0
+Text GLabel 8100 5300 0    50   Input ~ 0
 Col3
-Text GLabel 8450 2050 0    50   Input ~ 0
+Text GLabel 8100 4700 0    50   Input ~ 0
 Row1
-Text GLabel 8450 1950 0    50   Input ~ 0
+Text GLabel 8100 4600 0    50   Input ~ 0
 Row0
-Text GLabel 8450 2150 0    50   Input ~ 0
+Text GLabel 8100 4800 0    50   Input ~ 0
 Row2
-Text GLabel 8450 2250 0    50   Input ~ 0
+Text GLabel 8100 4900 0    50   Input ~ 0
 Row3
-Text GLabel 8450 2350 0    50   Input ~ 0
+Text GLabel 8100 5000 0    50   Input ~ 0
 Row4
+Text GLabel 9500 4500 2    50   Input ~ 0
+OledGND
+Text GLabel 9500 4600 2    50   Input ~ 0
+OledSDA
+Text GLabel 9500 4700 2    50   Input ~ 0
+OledSCL
+Text GLabel 7000 3200 0    50   Input ~ 0
+OledSCL
+Text GLabel 7000 3050 0    50   Input ~ 0
+OledSDA
+Text GLabel 7000 3500 0    50   Input ~ 0
+OledGND
+$Comp
+L kbd:OLED OL1
+U 1 1 60E2F51B
+P 7750 3300
+F 0 "OL1" H 8378 3369 51  0000 L CNN
+F 1 "OLED" H 8378 3279 47  0000 L CNN
+F 2 "kbd:OLED_v2" H 7750 3400 60  0001 C CNN
+F 3 "" H 7750 3400 60  0001 C CNN
+	1    7750 3300
+	1    0    0    -1  
+$EndComp
+Text GLabel 7000 3350 0    50   Input ~ 0
+OledVCC
+Text GLabel 8100 4500 0    50   Input ~ 0
+OledVCC
+$Comp
+L kbd:ProMicro U1
+U 1 1 60E33523
+P 8800 4750
+F 0 "U1" H 8800 5587 60  0000 C CNN
+F 1 "ProMicro" H 8800 5481 60  0000 C CNN
+F 2 "kbd:ProMicro_v3" H 8900 3700 60  0001 C CNN
+F 3 "" H 8900 3700 60  0000 C CNN
+	1    8800 4750
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	1850 3300 3850 3300
+Connection ~ 3850 3300
+Wire Wire Line
+	2500 4200 3850 4200
+Connection ~ 3850 4200
+Wire Wire Line
+	2500 5200 3850 5200
+Connection ~ 3850 5200
+Wire Wire Line
+	3850 5200 4600 5200
+Connection ~ 4600 5200
+Wire Wire Line
+	4600 5200 5300 5200
+Connection ~ 5300 5200
+Wire Wire Line
+	5300 5200 5950 5200
+Wire Wire Line
+	3850 4200 4600 4200
+Connection ~ 4600 4200
+Wire Wire Line
+	4600 4200 5300 4200
+Connection ~ 5300 4200
+Wire Wire Line
+	5300 4200 5950 4200
+Connection ~ 5300 3300
+Wire Wire Line
+	5300 3300 5950 3300
+Wire Wire Line
+	3850 3300 4600 3300
+Connection ~ 4600 3300
+Wire Wire Line
+	4600 3300 5300 3300
+Wire Wire Line
+	3850 2400 4600 2400
+Connection ~ 4600 2400
+Wire Wire Line
+	4600 2400 5300 2400
+Connection ~ 5300 2400
+Wire Wire Line
+	5300 2400 5950 2400
+Wire Wire Line
+	3850 1500 4600 1500
+Connection ~ 4600 1500
+Wire Wire Line
+	4600 1500 5300 1500
+Connection ~ 5300 1500
+Wire Wire Line
+	5300 1500 5950 1500
+Text GLabel 9050 1350 0    50   Input ~ 0
+ResetVIA1
+Text GLabel 9050 1750 0    50   Input ~ 0
+ResetVIA2
+$Comp
+L Mechanical:MountingHole_Pad H1
+U 1 1 60E37393
+P 9050 1250
+F 0 "H1" H 9150 1299 50  0000 L CNN
+F 1 "MountingHole_Pad" H 9150 1208 50  0000 L CNN
+F 2 "kbd:1pin_conn" H 9050 1250 50  0001 C CNN
+F 3 "~" H 9050 1250 50  0001 C CNN
+	1    9050 1250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole_Pad H2
+U 1 1 60E38F7D
+P 9050 1650
+F 0 "H2" H 9150 1699 50  0000 L CNN
+F 1 "MountingHole_Pad" H 9150 1608 50  0000 L CNN
+F 2 "kbd:1pin_conn" H 9050 1650 50  0001 C CNN
+F 3 "~" H 9050 1650 50  0001 C CNN
+	1    9050 1650
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
