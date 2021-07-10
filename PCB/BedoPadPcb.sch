@@ -220,7 +220,7 @@ F 1 "DIODE" V 2545 3778 50  0000 L CNN
 F 2 "kbd:D3_TH" H 2500 3650 50  0001 C CNN
 F 3 "~" H 2500 3650 50  0001 C CNN
 	1    2500 3650
-	0    -1   -1   0   
+	0    1    1    0   
 $EndComp
 $Comp
 L pspice:DIODE D3
@@ -231,7 +231,7 @@ F 1 "DIODE" V 2545 4578 50  0000 L CNN
 F 2 "kbd:D3_TH" H 2500 4450 50  0001 C CNN
 F 3 "~" H 2500 4450 50  0001 C CNN
 	1    2500 4450
-	0    -1   -1   0   
+	0    1    1    0   
 $EndComp
 $Comp
 L pspice:DIODE D8
@@ -242,7 +242,7 @@ F 1 "DIODE" V 3895 5128 50  0000 L CNN
 F 2 "kbd:D3_TH" H 3850 5000 50  0001 C CNN
 F 3 "~" H 3850 5000 50  0001 C CNN
 	1    3850 5000
-	0    -1   -1   0   
+	0    1    1    0   
 $EndComp
 $Comp
 L pspice:DIODE D13
@@ -253,7 +253,7 @@ F 1 "DIODE" V 4645 5128 50  0000 L CNN
 F 2 "kbd:D3_TH" H 4600 5000 50  0001 C CNN
 F 3 "~" H 4600 5000 50  0001 C CNN
 	1    4600 5000
-	0    -1   -1   0   
+	0    1    1    0   
 $EndComp
 $Comp
 L pspice:DIODE D18
@@ -264,7 +264,7 @@ F 1 "DIODE" V 5345 5128 50  0000 L CNN
 F 2 "kbd:D3_TH" H 5300 5000 50  0001 C CNN
 F 3 "~" H 5300 5000 50  0001 C CNN
 	1    5300 5000
-	0    -1   -1   0   
+	0    1    1    0   
 $EndComp
 $Comp
 L pspice:DIODE D17
@@ -275,7 +275,7 @@ F 1 "DIODE" V 5345 4128 50  0000 L CNN
 F 2 "kbd:D3_TH" H 5300 4000 50  0001 C CNN
 F 3 "~" H 5300 4000 50  0001 C CNN
 	1    5300 4000
-	0    -1   -1   0   
+	0    1    1    0   
 $EndComp
 $Comp
 L pspice:DIODE D12
@@ -286,7 +286,7 @@ F 1 "DIODE" V 4645 4128 50  0000 L CNN
 F 2 "kbd:D3_TH" H 4600 4000 50  0001 C CNN
 F 3 "~" H 4600 4000 50  0001 C CNN
 	1    4600 4000
-	0    -1   -1   0   
+	0    1    1    0   
 $EndComp
 $Comp
 L pspice:DIODE D7
@@ -297,7 +297,7 @@ F 1 "DIODE" V 3895 4128 50  0000 L CNN
 F 2 "kbd:D3_TH" H 3850 4000 50  0001 C CNN
 F 3 "~" H 3850 4000 50  0001 C CNN
 	1    3850 4000
-	0    -1   -1   0   
+	0    1    1    0   
 $EndComp
 $Comp
 L pspice:DIODE D16
@@ -308,7 +308,7 @@ F 1 "DIODE" V 5345 3228 50  0000 L CNN
 F 2 "kbd:D3_TH" H 5300 3100 50  0001 C CNN
 F 3 "~" H 5300 3100 50  0001 C CNN
 	1    5300 3100
-	0    -1   -1   0   
+	0    1    1    0   
 $EndComp
 $Comp
 L pspice:DIODE D11
@@ -319,7 +319,7 @@ F 1 "DIODE" V 4645 3228 50  0000 L CNN
 F 2 "kbd:D3_TH" H 4600 3100 50  0001 C CNN
 F 3 "~" H 4600 3100 50  0001 C CNN
 	1    4600 3100
-	0    -1   -1   0   
+	0    1    1    0   
 $EndComp
 $Comp
 L pspice:DIODE D6
@@ -330,7 +330,7 @@ F 1 "DIODE" V 3895 3228 50  0000 L CNN
 F 2 "kbd:D3_TH" H 3850 3100 50  0001 C CNN
 F 3 "~" H 3850 3100 50  0001 C CNN
 	1    3850 3100
-	0    -1   -1   0   
+	0    1    1    0   
 $EndComp
 $Comp
 L pspice:DIODE D15
@@ -341,7 +341,7 @@ F 1 "DIODE" V 5345 2328 50  0000 L CNN
 F 2 "kbd:D3_TH" H 5300 2200 50  0001 C CNN
 F 3 "~" H 5300 2200 50  0001 C CNN
 	1    5300 2200
-	0    -1   -1   0   
+	0    1    1    0   
 $EndComp
 $Comp
 L pspice:DIODE D10
@@ -352,7 +352,7 @@ F 1 "DIODE" V 4645 2328 50  0000 L CNN
 F 2 "kbd:D3_TH" H 4600 2200 50  0001 C CNN
 F 3 "~" H 4600 2200 50  0001 C CNN
 	1    4600 2200
-	0    -1   -1   0   
+	0    1    1    0   
 $EndComp
 $Comp
 L pspice:DIODE D5
@@ -363,7 +363,7 @@ F 1 "DIODE" V 3895 2328 50  0000 L CNN
 F 2 "kbd:D3_TH" H 3850 2200 50  0001 C CNN
 F 3 "~" H 3850 2200 50  0001 C CNN
 	1    3850 2200
-	0    -1   -1   0   
+	0    1    1    0   
 $EndComp
 $Comp
 L pspice:DIODE D14
@@ -374,7 +374,7 @@ F 1 "DIODE" V 5345 1428 50  0000 L CNN
 F 2 "kbd:D3_TH" H 5300 1300 50  0001 C CNN
 F 3 "~" H 5300 1300 50  0001 C CNN
 	1    5300 1300
-	0    -1   -1   0   
+	0    1    1    0   
 $EndComp
 $Comp
 L pspice:DIODE D9
@@ -385,7 +385,7 @@ F 1 "DIODE" V 4645 1428 50  0000 L CNN
 F 2 "kbd:D3_TH" H 4600 1300 50  0001 C CNN
 F 3 "~" H 4600 1300 50  0001 C CNN
 	1    4600 1300
-	0    -1   -1   0   
+	0    1    1    0   
 $EndComp
 $Comp
 L pspice:DIODE D4
@@ -396,7 +396,7 @@ F 1 "DIODE" V 3895 1428 50  0000 L CNN
 F 2 "kbd:D3_TH" H 3850 1300 50  0001 C CNN
 F 3 "~" H 3850 1300 50  0001 C CNN
 	1    3850 1300
-	0    -1   -1   0   
+	0    1    1    0   
 $EndComp
 Wire Wire Line
 	3450 4800 3450 3800
@@ -461,7 +461,7 @@ F 1 "DIODE" V 1895 2378 50  0000 L CNN
 F 2 "kbd:D3_TH" H 1850 2250 50  0001 C CNN
 F 3 "~" H 1850 2250 50  0001 C CNN
 	1    1850 2250
-	0    -1   -1   0   
+	0    1    1    0   
 $EndComp
 Wire Wire Line
 	2500 4650 2500 5200
@@ -559,55 +559,6 @@ F 3 "" H 8900 3700 60  0000 C CNN
 	1    8800 4750
 	-1   0    0    -1  
 $EndComp
-Wire Wire Line
-	1850 3300 3850 3300
-Connection ~ 3850 3300
-Wire Wire Line
-	2500 4200 3850 4200
-Connection ~ 3850 4200
-Wire Wire Line
-	2500 5200 3850 5200
-Connection ~ 3850 5200
-Wire Wire Line
-	3850 5200 4600 5200
-Connection ~ 4600 5200
-Wire Wire Line
-	4600 5200 5300 5200
-Connection ~ 5300 5200
-Wire Wire Line
-	5300 5200 5950 5200
-Wire Wire Line
-	3850 4200 4600 4200
-Connection ~ 4600 4200
-Wire Wire Line
-	4600 4200 5300 4200
-Connection ~ 5300 4200
-Wire Wire Line
-	5300 4200 5950 4200
-Connection ~ 5300 3300
-Wire Wire Line
-	5300 3300 5950 3300
-Wire Wire Line
-	3850 3300 4600 3300
-Connection ~ 4600 3300
-Wire Wire Line
-	4600 3300 5300 3300
-Wire Wire Line
-	3850 2400 4600 2400
-Connection ~ 4600 2400
-Wire Wire Line
-	4600 2400 5300 2400
-Connection ~ 5300 2400
-Wire Wire Line
-	5300 2400 5950 2400
-Wire Wire Line
-	3850 1500 4600 1500
-Connection ~ 4600 1500
-Wire Wire Line
-	4600 1500 5300 1500
-Connection ~ 5300 1500
-Wire Wire Line
-	5300 1500 5950 1500
 Text GLabel 9050 1350 0    50   Input ~ 0
 ResetVIA1
 Text GLabel 9050 1750 0    50   Input ~ 0
@@ -634,4 +585,53 @@ F 3 "~" H 9050 1650 50  0001 C CNN
 	1    9050 1650
 	1    0    0    -1  
 $EndComp
+Wire Wire Line
+	2500 4200 3850 4200
+Connection ~ 3850 4200
+Wire Wire Line
+	2500 5200 3850 5200
+Connection ~ 3850 5200
+Wire Wire Line
+	3850 5200 4600 5200
+Connection ~ 4600 5200
+Wire Wire Line
+	4600 5200 5300 5200
+Connection ~ 5300 5200
+Wire Wire Line
+	5300 5200 5950 5200
+Connection ~ 5300 4200
+Wire Wire Line
+	5300 4200 5950 4200
+Wire Wire Line
+	3850 4200 4600 4200
+Connection ~ 4600 4200
+Wire Wire Line
+	4600 4200 5300 4200
+Wire Wire Line
+	1850 3300 3850 3300
+Connection ~ 3850 3300
+Wire Wire Line
+	3850 3300 4600 3300
+Connection ~ 4600 3300
+Wire Wire Line
+	4600 3300 5300 3300
+Connection ~ 5300 3300
+Wire Wire Line
+	5300 3300 5950 3300
+Connection ~ 5300 2400
+Wire Wire Line
+	5300 2400 5950 2400
+Wire Wire Line
+	3850 2400 4600 2400
+Connection ~ 4600 2400
+Wire Wire Line
+	4600 2400 5300 2400
+Wire Wire Line
+	3850 1500 4600 1500
+Connection ~ 4600 1500
+Wire Wire Line
+	4600 1500 5300 1500
+Connection ~ 5300 1500
+Wire Wire Line
+	5300 1500 5950 1500
 $EndSCHEMATC
