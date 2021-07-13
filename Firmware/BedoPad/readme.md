@@ -6,7 +6,7 @@
 
 * Keyboard Maintainer: [BedoDev](https://github.com/AXRAY23)
 * Hardware Supported: *BedoPad V1*
-* Hardware Availability: *[BedoPad on bedodev.com](link here)*
+* Hardware Availability: *Unavailable or self printed*
 
 Make example for this keyboard (after setting up your build environment):
 
