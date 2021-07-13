@@ -1,6 +1,6 @@
 # BedoPad
 
-![BedoPad](https://imgur.com/tlS4Ijj)
+![BedoPad](https://i.imgur.com/tlS4Ijj.png)
 
 *A short description of the keyboard/project*
 
